@@ -1,0 +1,21 @@
+{
+  "name": "cursonodejsyoutube",
+  "version": "1.0.0",
+  "description": "un curso de nodejs para bosch",
+  "main": "index.js",
+  "dependencies": {
+    "colors": "^1.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "desarrollo": "node index.js" 
+  },
+  "keywords": [
+    "nodejs",
+    "curso",
+    "introduccion"
+  ],
+  "author": "Dante novoa",
+  "license": "ISC"
+}
